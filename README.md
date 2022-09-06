@@ -1,2 +1,2 @@
 # Jitendra-Bhavsar
-I have learning Machine Learning Course from Symbiosis Skills and Professional University.
+I have pursuing Machine Learning Course from Symbiosis Skills and Professional University (Pune) Sponsor by J P Morgan Pvt. Lmt.
